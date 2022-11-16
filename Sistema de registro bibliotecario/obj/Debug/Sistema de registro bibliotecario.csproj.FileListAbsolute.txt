@@ -1,0 +1,29 @@
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\bin\Debug\Sistema de registro bibliotecario.exe.config
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\bin\Debug\Sistema de registro bibliotecario.exe
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\bin\Debug\Sistema de registro bibliotecario.pdb
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema_de_registro_bibliotecario.Form1.resources
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema_de_registro_bibliotecario.Properties.Resources.resources
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.exe
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.pdb
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema_de_registro_bibliotecario.FrmInterno.resources
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andres\source\repos\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.csproj.CopyComplete
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\bin\Debug\Sistema de registro bibliotecario.exe.config
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\bin\Debug\Sistema de registro bibliotecario.exe
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\bin\Debug\Sistema de registro bibliotecario.pdb
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\bin\Debug\Newtonsoft.Json.dll
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\bin\Debug\Newtonsoft.Json.xml
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.csproj.AssemblyReference.cache
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.csproj.SuggestedBindingRedirects.cache
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema_de_registro_bibliotecario.FrmInterno.resources
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema_de_registro_bibliotecario.Form1.resources
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema_de_registro_bibliotecario.Properties.Resources.resources
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.csproj.GenerateResource.cache
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.csproj.CoreCompileInputs.cache
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.csproj.CopyComplete
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.exe
+E:\Sistema de registro bibliotecario\Sistema de registro bibliotecario\obj\Debug\Sistema de registro bibliotecario.pdb
